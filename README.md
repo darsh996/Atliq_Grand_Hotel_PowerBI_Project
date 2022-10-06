@@ -1,4 +1,4 @@
-# Atliq_PowerBI_Project
+# Atliq_Grand_PowerBI_Project
 
 
 Domain:  Hospitality       Function: Revenue
