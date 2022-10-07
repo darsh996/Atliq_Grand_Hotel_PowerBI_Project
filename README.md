@@ -18,3 +18,5 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 3.Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ![Screenshot 2022-10-06 at 5 10 55 PM](https://user-images.githubusercontent.com/97582053/194303758-274f3051-7af1-4f91-b701-b0f169b3c13a.png)
+
+![Screenshot 2022-10-07 at 5 08 45 PM](https://user-images.githubusercontent.com/97582053/194544668-728c5f7b-c77b-4d5a-a83b-f6878c0018bc.png)
